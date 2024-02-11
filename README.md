@@ -1,16 +1,27 @@
-### Hi there 👋
+============================================================
+# Artificial-Intelligence-Mailer
 
-<!--
-**kaliaimailer/KaliAIMailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+============================================================
+# Important Python PIP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    NumPy
+    SciPy
+    Matplotlib
+    Pandas
+    TensorFlow
+    PyTorch
+    Keras
+    scikit-learn
+    Jupyter Notebook
+    Seaborn
+    OpenCV
+    NLTK
+    Gensim
+    spaCy
+    Theano
+    Pybrain
+    Caffe
+    MXNet
+    CNTK
+============================================================
