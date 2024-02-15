@@ -1,14 +1,33 @@
-<!-- templates/index.html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask App</title>
+    <title>Flask Chatbot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 <body>
-    <h1>{{ greeting }}</h1>
+    <h1>Flask Chatbot</h1>
+    <form id="chat-form">
+        <input type="text" id="message_input" placeholder="Type your message here..." autocomplete="off">
+        <button type="submit">Send</button>
+    </form>
+    <div id="chat-response">
+        <!-- Response will be displayed here -->
+    </div>
+
+    <script>
+        $(function() {
+            $('#chat-form').on('submit', function(e) {
+                e.preventDefault();
+                var message = $('#message_input').val();
+                $.post('/send_message', {message: message}, function(data) {
+                    $('#chat-response').text(data.response);
+                    $('#message_input').val(''); // Clear input field
+                });
+            });
+        });
+    </script>
 </body>
 </html>
