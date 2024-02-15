@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web App</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+   <!-- Custom CSS -->
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body class="bg-pure-dark text-light-gray">
+
+    <button id="floating-button" class="btn btn-danger rounded-circle">
+        <i class="fas fa-info"></i> <!-- Use any icon from FontAwesome or similar -->
+    </button>
+    
+
+  <header class="bg-pure-dark py-2">
+        <div class="container">
+            <div class="row">
+                <div class="col text-center">
+                    <img src="{{ url_for('static', filename='Kaliaimailer-logo.jpg') }}" width="600" height="160"/>
+                </div>
+            </div>
+        </div>
+    </header>
+<!---navbar-->
+<hr>
+<!-- As a heading -->
+    <main class="container mt-4">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>Kali AI : All Alerts</h2>
+                        <hr>
+                        <div id="info-box" class="p-3 mb-2 bg-danger text-white rounded">
+                            <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                        </div>
+                    </div>
+                  </div>
+                  <hr>
+                <div class="card">
+                    <div class="card-body">
+                        <h2>Upload Files</h2>
+                        <hr>
+                        <div id="info-box" class="p-3 mb-2 bg-secondary text-white rounded">
+                            <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                        </div>
+                    </div>
+                  </div>
+                <hr>
+                <hr>
+                <div class="card">
+                    <div class="card-body">
+                        <h2>Health</h2>
+                        <hr>
+                        <div id="info-box" class="p-3 mb-2 bg-warning text-white rounded">
+                            <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                        </div>
+                    </div>
+                  </div>
+                <!-- File upload form -->
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>User Input</h2>
+                        <hr>
+                        <!-- Info Box -->
+                <div id="info-box" class="p-3 mb-2 bg-primary text-white rounded">
+                    <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.
+                        Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.
+                        Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.
+                        Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.
+                    </p>
+                </div>
+                <hr>
+                        <div class="input-group mb-4">
+                            <input type="text" class="form-control" placeholder="Please put commands carefully." aria-label="Please put commands carefully." aria-describedby="button-addon2">
+                            <button class="btn btn-outline-danger" type="button" id="button-addon2">Send <i class="fa fa-paper-plane"></i></button>
+                          </div>
+                    </div>
+                  </div>
+            <hr>
+            
+            <div class="card">
+                <div class="card-body">
+                    <h2>Settings</h2>
+                    <hr>
+                    <div id="info-box" class="p-3 mb-2 bg-warning text-white rounded">
+                        <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                    </div>
+                </div>
+              </div>
+               
+                <!-- Form for user input -->
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h2>Running All Process </h2>
+                        <hr>
+                        <div id="info-box" class="p-3 mb-2 bg-success text-white rounded">
+                            <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                        </div>
+                    </div>
+                  </div>
+                  <hr>
+                  <div class="card">
+                    <div class="card-body">
+                        <h2>All Important Logs </h2>
+                        <hr>
+                        <div id="info-box" class="p-3 mb-2 bg-warning text-white rounded">
+                            <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                        </div>
+                    </div>
+                  </div>
+                
+                <!-- Area to display running processes or results -->
+            <hr>
+            <div class="card">
+                <div class="card-body">
+                    <h2>Security</h2>
+                    <hr>
+                    <div id="info-box" class="p-3 mb-2 bg-warning text-white rounded">
+                        <p>Enter your commands in the text field and press "Send Command". Please make sure to verify the command syntax before submission.</p>
+                    </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </main>
+    <br>
+    <br>
+    <!-- Footer -->
+    <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+        <div class="container text-center">
+            <p>Contact Information
+                <br>
+                Email Address : kaliaimailer@protonmail.com
+            </p>
+            <hr>
+        </div>
+        <div class="container text-center">
+            <small>All Rights Reserved By Kali AI Mailer 2024</small>
+        </div>
+    </footer>
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

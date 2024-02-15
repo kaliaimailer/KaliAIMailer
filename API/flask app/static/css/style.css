@@ -1,0 +1,56 @@
+/* Custom styles for the sticky footer */
+body, html {
+    height: 100%;
+}
+#page-content {
+    flex: 1 0 auto;
+}
+#sticky-footer {
+    flex-shrink: none;
+}
+
+
+
+
+/* Add your custom styles here */
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+/* Ensure the content area is above the footer */
+.container {
+    margin-bottom: 60px; /* Adjust the value based on footer height */
+}
+
+
+/* style.css */
+.bg-pure-dark {
+    background-color: #000000 !important; /* Pure black */
+}
+
+.text-light-gray {
+    color: #b0b0b0 !important; /* Custom light gray color for text for better readability */
+}
+
+
+#floating-button {
+    position: fixed; /* Stay in place */
+    bottom: 20px; /* 20px from the bottom */
+    right: 20px; /* 20px from the right side */
+    z-index: 99; /* Sit on top */
+    
+    /* Styling */
+    width: 50px; /* Set a fixed width */
+    height: 50px; /* And height */
+    border-radius: 50%; /* Circular button */
+    font-size: 24px; /* Increase icon size */
+    
+    /* Center the icon in the button */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
