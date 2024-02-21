@@ -1,12 +1,12 @@
 Total directories: 321
-Total files: 1228
+Total files: 1237
 File types and counts:
-No extension: 1064
+No extension: 1070
 .sample: 13
 .idx: 1
 .pack: 1
 .js: 3
-.py: 59
+.py: 60
 .md: 4
 .json: 5
 .ts: 18
@@ -21,8 +21,8 @@ No extension: 1064
 .pkl: 1
 .csv: 8
 .db: 1
+.txt: 5
 .pdf: 3
-.txt: 3
 .bat: 3
 .MD: 6
 .enc: 1
