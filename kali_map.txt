@@ -75,6 +75,7 @@
             35e0441c9d77759cbc7df4105f73f3060ed31b
             457396cca55f27557d3874732c3d426f96f7f0
             4a6e583225113856fa43adbc4902dfce6fe281
+            d11e5ecc9d53bcb4e82b3fd9fb6ca072034102
         09/
             438a6cb38a01876da96cd5757e201bfa5b28d1
             4d0aece05d56c1491e0a2c941f04e4e17dd844
@@ -176,6 +177,7 @@
             3ef12caefd603afbacc3f89ae55411f57a1b5f
             9556bad817bf2dc1de3bf4761845b7b572a271
             a0e40649ab552805ef753521d4ba4bf46ef4d4
+            dd2d56445e1a318557dff20c2a2ddb31f2e9e9
             ef07312dbdc4dcc70dc7a400aa27bf86be265b
         1b/
             09dd42532ab97abca1a1bd888746ad10f4c007
@@ -186,6 +188,7 @@
             7b828a8fdb9cf30a4aed65767ff42afa93e38b
         1d/
             2a108511366d225b26d7a83e34ce92c2d8dc37
+            96ec556ad2aff6f5a2f8a5ad23b14f9fdaf4f9
             bf10d7f951a8943cde293ca3708d13added842
         1e/
             46e180fdfd4e8efc67d270f459af635fd83bbb
@@ -366,6 +369,7 @@
             77823bf9d19989115749d4a5f56fdacd7199b8
             93db32051ee3237dc9c255c881a41032d9b0d4
         40/
+            79ff903030ec1b7fc56f88df8689509e5ea311
             8f342d18361384970c07f981900498f4160242
             c2ed1dcae9bc9149a8d8809146261bfdcf86ed
             ff2729ae02442b7b49298445d61ab067241bd4
@@ -466,6 +470,7 @@
             0b36cdd314b34b8e214a25fe83cc80ec7b0669
             3a105cca5801f18994eb5c60ab3b026a6859fb
             f82c1919a28f828b66b0d94ad9a7f8eb2faa8e
+            fbc2ca6183c910bfd717d04e169abca43b7b8a
         51/
             742c5816c70ca8b94a6cd4bfe76facec108911
             eebfab91ad7a7a1a38a1b1178f7f324cdf5abe
@@ -575,6 +580,7 @@
             18a3f6c0001633c510537e520e711021b803b3
             21dac9a85271cba3f65b5e7116c7fd907b9e72
             4b693fbc9195622b1e56129c8b5e03d19b0e4c
+            67a763ff9bfb94d0c708a198907fc8cd0ef781
             d09a2a903eca5fe1ddc6c3a220100641837373
             e85017f17f31bbbcf9c559ab2e8ca7ad7bec5d
         65/
@@ -583,6 +589,7 @@
             ea4dfdc5d5f24006f6a85255baf2f7c09a70c7
         66/
             36ff15d597465efc55162d3598d12838d69b63
+            7563827bfb4fbe52b6f03c011e8a700e5c185e
             acbaed8f97a8a8dee843b81d88e78444b74aed
             b21178a8cf468f1379251c3641b5ace62d1842
             be5cd329f216d96551192e8d72cb2808cc8518
@@ -591,6 +598,7 @@
             6d2d38534977cb63e4ea26c2124088d41e8abf
             82961c885d40f525d09f6ab7ce637e0ad571a5
             bf92954583ef5399bfd1aa10f085408892410a
+            c3cec182ee69f1c0b924378c7016f322c46fa7
             f860427ad2bcf052d6e3f0e80aa94437e53f4e
         68/
             81f4c4620365fc288b4eafac52e4bcce16676f
@@ -608,6 +616,7 @@
         6b/
             5b77bb61e08e9689110c86ad81d7b1e9372ad2
             5cbd2c4e7c7d1cc8c6f4692c5f35494857a7b1
+            8900599150a984f8b7e5a9ba56753bf74edae4
             b48a81c21f412e7aa4ae752f3a84c98a64ee4f
         6c/
             356efb149c32e8efe1001397489f70c9a46222
@@ -701,6 +710,7 @@
             b555186c8058d9c9ca82501b1147b4c0342b84
         7c/
             20d0ef4d7bc51b08315d1a2ca61a11434167eb
+            e5fbc619b836de3f8f471527e52304a791f55d
         7d/
             1063c1c581f7835d3b0216014cfd575ad93182
             7e4ddc0fc287977c45e81deadc87543e353c61
@@ -822,6 +832,7 @@
             9ee60ecd512cf891d1803af5fd12109c0da63c
             c9aed392677f250788aff5449fedf35b1860fb
             e5aa30aa2b960419bcc69964ae371023085cb1
+            e91b7760d9833b3004e1271ddfd652d324c4b8
         93/
             3f5b598c56f9a76e82d8dde57260118a12054a
             574dcd9be262c4425417d6859f7e9be3886269
@@ -871,6 +882,7 @@
             f4ad1a029b9ef82518de64411536071e1ffdd0
         9c/
             4da57d9353d01181aa0c1430dbe28bcff20668
+            77f25c66df8f4482d22723eb750f4111ae244b
             867198814a059ef5bcc0e7c70589370a6bdb3c
         9d/
             43fa12841b01bcefe6e349c968e4b91f226b73
@@ -915,6 +927,7 @@
             6a6e9e8422d4835dacff99c20751e3a5d108d9
             78591330a34987529ed8abc66adb4ad480de97
             c38f7e8179f73446fb31e563be6b5b2b65a87c
+            dce07a6d18074c4a42990da36e6601e2bca867
         a5/
             2247410ee74d8c7533703f87dbb72b59fd4cab
             415955b9ba1478b34f9c9bf4a59eee4310acec
@@ -1090,8 +1103,10 @@
             4a092fde116072f7c01b48bc185ccdbb3c4c24
         c9/
             a26bb90819e632842ed33af64b4cdc0011d55b
+            fd2d9391accf9035a1709ff93def55dd593096
         ca/
             4258e6ded7c09e30c58b5dd9c1ec36e19eb54c
+            612126569d7ec48d1854d21126f8ba4001c116
             89815c304a0a72c53167e918389eaf4ca8aaa3
             9a88437eed2d4b908cf627ec45a4a779911a8d
             ddcab484f3e9f09e253a510e58abe8d40fb8c5
@@ -1173,6 +1188,7 @@
         d9/
             1d980b819a5a354c99896e328a496fc934a582
             51bd5ae0be93a32883b10094e7d515aa54b158
+            83b60614944af19935aa431799d906d923b74f
             d078997868b120ec0f2f288cb3dc5258eba814
         da/
             2fb97480337bb032c28157be675aac746dce68
@@ -1246,6 +1262,7 @@
             e9db361b50f7cd0ab2922185726794db005bc3
         e8/
             3e183c52ec0f541f7cdcdeb427ff69ba43f651
+            459fcd35ada2b32be10086b42815a2d1502c82
             46077486ca7feff1a4b9b69ca236b5d7dc2f08
             7deff05ef768f9387b606268de532983e86608
             8670d3315990b59bd82f73bdaa1a01b2ec02a3
@@ -1266,6 +1283,8 @@
         ed/
             553716250c1d30ed28dc502647cb1e6a96966a
             fef1b7517eafe15c0614f8ae8f87ef1dd47704
+        ee/
+            734e1e3be95941f2fd62f9f063d3a4b72ede7b
         ef/
             54ebf538a3a27e1b27cd583ae4f66be184d67c
             5672e02450ba704a973e14bfa68b9b75c11de6
@@ -1429,130 +1448,3 @@ File_Locker/
     combine_images_text_pdf.py
     example.txt
     image.png
-Kali-Mapper.py
-KaliAIMapper.py
-Life.bat
-Main.py
-Problem-Solution.md
-Project-Completion.MD
-README.md
-Research.MD
-Resources.MD
-Scanner_Checker/
-    Scan.py
-Security/
-    Self-Destroy.py
-    Self-Encrypt.py
-Self_Diagnosis/
-Setup/
-    pip-installation.bat
-    setup.bat
-    setup.py
-    setup_environment.py
-Suggestions.MD
-Target.MD
-Test/
-    DL.py
-    Example-ML.py
-    ML.py
-    Mail-Header-Analzer.py
-    Test.py
-User Interface GUI/
-    GUI-Interface.py
-    kaliaimailer-logo.jpg
-    kaliaimailer.ico
-    send.png
-bgm.mp3
-brain/
-    __init__.py
-    __pycache__/
-        __init__.cpython-38.pyc
-        ai_brain.cpython-38.pyc
-    ai_brain.py
-    brain.py
-connecter/
-    connector.py
-content_creator/
-    __init__.py
-    email_content.py
-controller/
-    controller.py
-data/
-    Emails.csv
-    Subject.csv
-    __init__.py
-    ai_data.pkl
-    data_loader.py
-    example.db
-    save_ai_data.py
-    sql.py
-directory_map.txt
-health_monitor/
-    __pycache__/
-        system_check.cpython-311.pyc
-    system_check.py
-kali_map.txt
-logs/
-    __init__.py
-    __pycache__/
-        __init__.cpython-310.pyc
-        __init__.cpython-311.pyc
-        __init__.cpython-38.pyc
-        log.cpython-310.pyc
-        log.cpython-311.pyc
-        log.cpython-38.pyc
-    log.py
-mailer/
-    __init__.py
-    __pycache__/
-        __init__.cpython-310.pyc
-        __init__.cpython-311.pyc
-        __init__.cpython-38.pyc
-        mailer.cpython-310.pyc
-        mailer.cpython-311.pyc
-        mailer.cpython-38.pyc
-    init.py
-    mailer.py
-modules/
-    Data/
-        Emails.csv
-        Subjects.csv
-        module-data.py
-    Host-Information/
-        host-information.py
-    Human-Feedback/
-        human-feedback.py
-    Pattern-Finder/
-        data.csv
-        pattern-reco.py
-        pattern.py
-    Self-Feedback/
-        self-feedback.py
-    Self-Spam-Checker/
-        self-spam-checker.py
-new api/
-    flask app/
-        WhatsApp Image 2024-02-16 at 04.18.05_2653d868.jpg
-        __pycache__/
-            utilities.cpython-38.pyc
-        app.py
-        chatbot.py
-        templates/
-            index.html
-        utilities.py
-operations-manager/
-    main.py
-reporting/
-    AI.pdf
-    Generator.py
-    PDF_Locker.py
-    README.MD
-    ScreenshotModule.py
-    collect_all_reports.py
-    combine_images_text_pdf.py
-    credentials.enc
-    example.txt
-    image.png
-    logs.py
-    send_report.py
-    send_reports.py
