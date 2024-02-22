@@ -58,3 +58,7 @@
     |
     |-- Third-party Email Sending Libraries
         |-- yagmail (for Gmail)
+
+
+    sudo apt-get install postfix
+    sudo apt-get install exim4
