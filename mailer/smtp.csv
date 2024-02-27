@@ -1,0 +1,2 @@
+smtp_server,smtp_port,email,password
+smtp.gmail.com,587,pysenderpro@gmail.com,pzkwwuqnkrizijdm
