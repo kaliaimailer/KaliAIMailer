@@ -41,14 +41,14 @@ html_content = """
   <body>
     <p>Hi,<br>
        How are you?<br>
-       <a href="http://www.example.com">Visit our website</a>.
+       <a href="http://www.google.com">Visit our website</a>.
     </p>
   </body>
 </html>
 """
 
-smtp_info = read_smtp_settings('C:/KaliAIMailer/mailer/smtp.csv')
-contacts = read_contacts('C:/KaliAIMailer/mailer/contact.csv')
+smtp_info = read_smtp_settings('C:/KaliAIMailer/data/smtp.csv')
+contacts = read_contacts('C:/KaliAIMailer/data/contact.csv')
 subject = "Hello from Python"
 
 send_email(smtp_info, contacts, subject, html_content)
