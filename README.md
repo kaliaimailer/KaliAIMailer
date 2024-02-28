@@ -196,3 +196,23 @@
     |              +-------------------+
     |
     +-------------------------------------------------------+
+
+# Suggestion
+
+        User
+        |
+        Interface
+        |
+        Brain
+        |================= Mailer
+        |
+        Connecter
+        |
+        Analysis
+        |
+        Data + 3rd Party AI + Spam Checker + Content Creator + Randomizer
+
+
+# Final Mapping of ( AI + KALI )
+
+    ML, DL, NLP = Ranamizer Module, Classification.
